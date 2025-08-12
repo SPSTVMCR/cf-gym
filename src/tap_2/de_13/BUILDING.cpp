@@ -1,4 +1,4 @@
-///SPSTVMCR
+///SPSTVMCR - wip
 #include <bits/stdc++.h>
 using namespace std;
 //Types
@@ -21,6 +21,19 @@ int main() {
 
     ll x;
     cin >> x;
+    vll red;
+    vll blue;
+    f(ll, i, 0, x) {
+        ll inp;
+        cin >> inp;
+        if (inp < 0) {
+            red.push_back(inp);
+        } else {
+            blue.push_back(-inp);
+        }
+    }
+    sort(all(red));
+    sort(all(blue));
 
     return 0;
 }

@@ -19,8 +19,38 @@ using vll = vector<ll>;
 int main() {
     fast_io();
 
-    ll x;
-    cin >> x;
+    ll n, m;
+    cin >> n >> m;
+    vll A(n);
 
+    f(ll, i, 0, n) cin >> A[i];
+    f(ll, i, 0, m) {
+        ll inp;
+        cin >> inp;
+        auto it = find(all(A), inp);
+        if (it != A.end()) {
+            A.erase(it);
+        }
+    }
+
+    vll B = A;
+    sort(all(B));
+
+    ll max_sum = 0;
+    for (size_t i = 0, j; i < B.size(); ++i) {
+        j = i + 1;
+        while (j < B.size() && B[j] == B[i]) {
+            ++j;
+        }
+        ll sum = B[i] * (j - i);
+        max_sum = maxf(max_sum, sum);
+        i = j - 1;
+    }
+
+    for (ll x: A) {
+        cout << x << " ";
+    }
+    cout << "\n";
+    cout << max_sum << "\n";
     return 0;
 }

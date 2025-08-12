@@ -9,7 +9,7 @@ using vll = vector<ll>;
 #define fast_io() ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 //Utils
 #define all(x) (x).begin(), (x).end()
-#define f(type, i, s, e) for (type i = (s); i < (e); ++i)
+#define f(type, i, s, comp, e) for (type i = (s); i comp (e); ++i)
 #define minf(x, y) ((x) < (y) ? (x) : (y))
 #define maxf(x, y) ((x) > (y) ? (x) : (y))
 // bool prime(ll a) {if (a == 1) return 0; for (int i = 2; i <= round(sqrt(a)); ++i) if (a % i == 0) return false; return true;}
@@ -18,9 +18,12 @@ using vll = vector<ll>;
 /* Main function */
 int main() {
     fast_io();
+    ll x, y, z;
+    cin >> x >> y >> z;
 
-    ll x;
-    cin >> x;
+    ll def = z * (x - y);
+    ll wait = (def + y - 1) / y;
 
+    cout << wait << "\n";
     return 0;
 }

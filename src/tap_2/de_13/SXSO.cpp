@@ -19,8 +19,21 @@ using vll = vector<ll>;
 int main() {
     fast_io();
 
-    ll x;
-    cin >> x;
-
+    string inp;
+    cin >> inp;
+    vi nums;
+    for (char c: inp) {
+        if (isdigit(c)) {
+            nums.push_back(c - '0');
+        }
+    }
+    sort(all(nums));
+    int idx = 0;
+    for (char &c : inp) {
+        if (isdigit(c)) {
+            c = char('0' + nums[idx++]);
+        }
+    }
+    cout << inp << "\n";
     return 0;
 }

@@ -19,8 +19,19 @@ using vll = vector<ll>;
 int main() {
     fast_io();
 
-    ll x;
-    cin >> x;
-
+    string inp;
+    cin >> inp;
+    set<int> nums;
+    f(size_t, i, 0, inp.size()) {
+        string numStr;
+        while (i < inp.size() && isdigit(inp[i])) {
+            numStr += inp[i];
+            ++i;
+        }
+        if (!numStr.empty()) {
+            nums.insert(stoi(numStr));
+        }
+    }
+    cout << nums.size() << '\n';
     return 0;
 }

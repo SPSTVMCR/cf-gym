@@ -17,6 +17,5 @@ foreach(src ${ALL_SOURCES})
     get_filename_component(folder ${dir} NAME)
     get_filename_component(name ${src} NAME_WE)
     set(target ${folder}_${name})
-    add_executable(${target} ${src}
-            src/tap_2/de_2/B.cpp)
+    add_executable(${target} ${src})
 endforeach()
