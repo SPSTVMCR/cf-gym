@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/de_1_WRESTLING.dir/link.d CMakeFiles/de_1_WRESTLING.dir/src/tap_1/de_1/WRESTLING.cpp.o -o de_1_WRESTLING

@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/de_5_TROCHOI.dir/link.d CMakeFiles/de_5_TROCHOI.dir/src/tap_1/de_5/TROCHOI.cpp.o -o de_5_TROCHOI

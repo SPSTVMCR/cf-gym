@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/de_12_THUONG1.dir/link.d CMakeFiles/de_12_THUONG1.dir/src/tap_2/de_12/THUONG1.cpp.o -o de_12_THUONG1

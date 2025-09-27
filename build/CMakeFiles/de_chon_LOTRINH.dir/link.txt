@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/de_chon_LOTRINH.dir/link.d CMakeFiles/de_chon_LOTRINH.dir/src/tap_2/de_chon/LOTRINH.cpp.o -o de_chon_LOTRINH

@@ -1,0 +1,338 @@
+[
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_1_CHUDE.dir/src/tap_1/de_1/CHUDE.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/CHUDE.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/CHUDE.cpp",
+  "output": "CMakeFiles/de_1_CHUDE.dir/src/tap_1/de_1/CHUDE.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_1_SODOCLAP.dir/src/tap_1/de_1/SODOCLAP.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/SODOCLAP.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/SODOCLAP.cpp",
+  "output": "CMakeFiles/de_1_SODOCLAP.dir/src/tap_1/de_1/SODOCLAP.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_1_WRESTLING.dir/src/tap_1/de_1/WRESTLING.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/WRESTLING.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/WRESTLING.cpp",
+  "output": "CMakeFiles/de_1_WRESTLING.dir/src/tap_1/de_1/WRESTLING.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_1_XAUHH.dir/src/tap_1/de_1/XAUHH.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/XAUHH.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/XAUHH.cpp",
+  "output": "CMakeFiles/de_1_XAUHH.dir/src/tap_1/de_1/XAUHH.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_10_DEMTG.dir/src/tap_1/de_10/DEMTG.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/DEMTG.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/DEMTG.cpp",
+  "output": "CMakeFiles/de_10_DEMTG.dir/src/tap_1/de_10/DEMTG.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_10_QUERY.dir/src/tap_1/de_10/QUERY.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/QUERY.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/QUERY.cpp",
+  "output": "CMakeFiles/de_10_QUERY.dir/src/tap_1/de_10/QUERY.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_10_SOTRONCHUC.dir/src/tap_1/de_10/SOTRONCHUC.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/SOTRONCHUC.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/SOTRONCHUC.cpp",
+  "output": "CMakeFiles/de_10_SOTRONCHUC.dir/src/tap_1/de_10/SOTRONCHUC.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_2_COUNT.dir/src/tap_1/de_2/COUNT.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/COUNT.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/COUNT.cpp",
+  "output": "CMakeFiles/de_2_COUNT.dir/src/tap_1/de_2/COUNT.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_2_KCSD.dir/src/tap_1/de_2/KCSD.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/KCSD.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/KCSD.cpp",
+  "output": "CMakeFiles/de_2_KCSD.dir/src/tap_1/de_2/KCSD.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_2_LOCSO.dir/src/tap_1/de_2/LOCSO.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/LOCSO.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/LOCSO.cpp",
+  "output": "CMakeFiles/de_2_LOCSO.dir/src/tap_1/de_2/LOCSO.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_2_NEW.dir/src/tap_1/de_2/NEW.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/NEW.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/NEW.cpp",
+  "output": "CMakeFiles/de_2_NEW.dir/src/tap_1/de_2/NEW.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_3_GROUP1.dir/src/tap_1/de_3/GROUP1.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/GROUP1.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/GROUP1.cpp",
+  "output": "CMakeFiles/de_3_GROUP1.dir/src/tap_1/de_3/GROUP1.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_3_MMAX.dir/src/tap_1/de_3/MMAX.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/MMAX.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/MMAX.cpp",
+  "output": "CMakeFiles/de_3_MMAX.dir/src/tap_1/de_3/MMAX.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_3_MODULO.dir/src/tap_1/de_3/MODULO.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/MODULO.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/MODULO.cpp",
+  "output": "CMakeFiles/de_3_MODULO.dir/src/tap_1/de_3/MODULO.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_3_VNI.dir/src/tap_1/de_3/VNI.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/VNI.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/VNI.cpp",
+  "output": "CMakeFiles/de_3_VNI.dir/src/tap_1/de_3/VNI.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_4_FSET.dir/src/tap_1/de_4/FSET.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/FSET.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/FSET.cpp",
+  "output": "CMakeFiles/de_4_FSET.dir/src/tap_1/de_4/FSET.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_4_SNTLN.dir/src/tap_1/de_4/SNTLN.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/SNTLN.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/SNTLN.cpp",
+  "output": "CMakeFiles/de_4_SNTLN.dir/src/tap_1/de_4/SNTLN.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_4_SSNT.dir/src/tap_1/de_4/SSNT.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/SSNT.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/SSNT.cpp",
+  "output": "CMakeFiles/de_4_SSNT.dir/src/tap_1/de_4/SSNT.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_4_TIMSO3.dir/src/tap_1/de_4/TIMSO3.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/TIMSO3.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/TIMSO3.cpp",
+  "output": "CMakeFiles/de_4_TIMSO3.dir/src/tap_1/de_4/TIMSO3.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_5_LTBN.dir/src/tap_1/de_5/LTBN.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/LTBN.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/LTBN.cpp",
+  "output": "CMakeFiles/de_5_LTBN.dir/src/tap_1/de_5/LTBN.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_5_TROCHOI.dir/src/tap_1/de_5/TROCHOI.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/TROCHOI.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/TROCHOI.cpp",
+  "output": "CMakeFiles/de_5_TROCHOI.dir/src/tap_1/de_5/TROCHOI.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_5_XDTV.dir/src/tap_1/de_5/XDTV.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/XDTV.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/XDTV.cpp",
+  "output": "CMakeFiles/de_5_XDTV.dir/src/tap_1/de_5/XDTV.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_5_XEPDIA.dir/src/tap_1/de_5/XEPDIA.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/XEPDIA.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/XEPDIA.cpp",
+  "output": "CMakeFiles/de_5_XEPDIA.dir/src/tap_1/de_5/XEPDIA.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_6_QLBD.dir/src/tap_1/de_6/QLBD.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_6/QLBD.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_6/QLBD.cpp",
+  "output": "CMakeFiles/de_6_QLBD.dir/src/tap_1/de_6/QLBD.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_7_BDKH.dir/src/tap_1/de_7/BDKH.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/BDKH.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/BDKH.cpp",
+  "output": "CMakeFiles/de_7_BDKH.dir/src/tap_1/de_7/BDKH.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_7_EVENPAIR.dir/src/tap_1/de_7/EVENPAIR.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/EVENPAIR.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/EVENPAIR.cpp",
+  "output": "CMakeFiles/de_7_EVENPAIR.dir/src/tap_1/de_7/EVENPAIR.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_7_ITABLE.dir/src/tap_1/de_7/ITABLE.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/ITABLE.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/ITABLE.cpp",
+  "output": "CMakeFiles/de_7_ITABLE.dir/src/tap_1/de_7/ITABLE.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_7_VANCHUYEN.dir/src/tap_1/de_7/VANCHUYEN.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/VANCHUYEN.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/VANCHUYEN.cpp",
+  "output": "CMakeFiles/de_7_VANCHUYEN.dir/src/tap_1/de_7/VANCHUYEN.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_8_RGAME.dir/src/tap_1/de_8/RGAME.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/RGAME.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/RGAME.cpp",
+  "output": "CMakeFiles/de_8_RGAME.dir/src/tap_1/de_8/RGAME.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_8_TAMGIAC3.dir/src/tap_1/de_8/TAMGIAC3.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TAMGIAC3.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TAMGIAC3.cpp",
+  "output": "CMakeFiles/de_8_TAMGIAC3.dir/src/tap_1/de_8/TAMGIAC3.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_8_TERA.dir/src/tap_1/de_8/TERA.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TERA.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TERA.cpp",
+  "output": "CMakeFiles/de_8_TERA.dir/src/tap_1/de_8/TERA.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_8_TGCAN.dir/src/tap_1/de_8/TGCAN.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TGCAN.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TGCAN.cpp",
+  "output": "CMakeFiles/de_8_TGCAN.dir/src/tap_1/de_8/TGCAN.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_9_ICPC.dir/src/tap_1/de_9/ICPC.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/ICPC.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/ICPC.cpp",
+  "output": "CMakeFiles/de_9_ICPC.dir/src/tap_1/de_9/ICPC.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_9_SPIRAL.dir/src/tap_1/de_9/SPIRAL.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/SPIRAL.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/SPIRAL.cpp",
+  "output": "CMakeFiles/de_9_SPIRAL.dir/src/tap_1/de_9/SPIRAL.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_9_THONGKE1.dir/src/tap_1/de_9/THONGKE1.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/THONGKE1.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/THONGKE1.cpp",
+  "output": "CMakeFiles/de_9_THONGKE1.dir/src/tap_1/de_9/THONGKE1.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_11_CLB.dir/src/tap_2/de_11/CLB.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/CLB.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/CLB.cpp",
+  "output": "CMakeFiles/de_11_CLB.dir/src/tap_2/de_11/CLB.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_11_CTURTLE.dir/src/tap_2/de_11/CTURTLE.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/CTURTLE.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/CTURTLE.cpp",
+  "output": "CMakeFiles/de_11_CTURTLE.dir/src/tap_2/de_11/CTURTLE.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_11_PHANLOAI.dir/src/tap_2/de_11/PHANLOAI.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/PHANLOAI.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/PHANLOAI.cpp",
+  "output": "CMakeFiles/de_11_PHANLOAI.dir/src/tap_2/de_11/PHANLOAI.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_11_SOHOC.dir/src/tap_2/de_11/SOHOC.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/SOHOC.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/SOHOC.cpp",
+  "output": "CMakeFiles/de_11_SOHOC.dir/src/tap_2/de_11/SOHOC.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_12_SEQ1.dir/src/tap_2/de_12/SEQ1.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/SEQ1.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/SEQ1.cpp",
+  "output": "CMakeFiles/de_12_SEQ1.dir/src/tap_2/de_12/SEQ1.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_12_TBG.dir/src/tap_2/de_12/TBG.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/TBG.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/TBG.cpp",
+  "output": "CMakeFiles/de_12_TBG.dir/src/tap_2/de_12/TBG.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_12_THUONG1.dir/src/tap_2/de_12/THUONG1.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/THUONG1.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/THUONG1.cpp",
+  "output": "CMakeFiles/de_12_THUONG1.dir/src/tap_2/de_12/THUONG1.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_13_BUILDING.dir/src/tap_2/de_13/BUILDING.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/BUILDING.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/BUILDING.cpp",
+  "output": "CMakeFiles/de_13_BUILDING.dir/src/tap_2/de_13/BUILDING.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_13_MM1.dir/src/tap_2/de_13/MM1.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/MM1.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/MM1.cpp",
+  "output": "CMakeFiles/de_13_MM1.dir/src/tap_2/de_13/MM1.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_13_SXSO.dir/src/tap_2/de_13/SXSO.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/SXSO.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/SXSO.cpp",
+  "output": "CMakeFiles/de_13_SXSO.dir/src/tap_2/de_13/SXSO.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_15_EQUA.dir/src/tap_2/de_15/EQUA.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_15/EQUA.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_15/EQUA.cpp",
+  "output": "CMakeFiles/de_15_EQUA.dir/src/tap_2/de_15/EQUA.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_15_NTO.dir/src/tap_2/de_15/NTO.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_15/NTO.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_15/NTO.cpp",
+  "output": "CMakeFiles/de_15_NTO.dir/src/tap_2/de_15/NTO.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_17_DONU.dir/src/tap_2/de_17/DONU.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/DONU.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/DONU.cpp",
+  "output": "CMakeFiles/de_17_DONU.dir/src/tap_2/de_17/DONU.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_17_GHESO1.dir/src/tap_2/de_17/GHESO1.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/GHESO1.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/GHESO1.cpp",
+  "output": "CMakeFiles/de_17_GHESO1.dir/src/tap_2/de_17/GHESO1.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_17_MHKM.dir/src/tap_2/de_17/MHKM.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/MHKM.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/MHKM.cpp",
+  "output": "CMakeFiles/de_17_MHKM.dir/src/tap_2/de_17/MHKM.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_17_OCHU.dir/src/tap_2/de_17/OCHU.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/OCHU.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/OCHU.cpp",
+  "output": "CMakeFiles/de_17_OCHU.dir/src/tap_2/de_17/OCHU.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_chon_LOTRINH.dir/src/tap_2/de_chon/LOTRINH.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/LOTRINH.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/LOTRINH.cpp",
+  "output": "CMakeFiles/de_chon_LOTRINH.dir/src/tap_2/de_chon/LOTRINH.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_chon_OAKS.dir/src/tap_2/de_chon/OAKS.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/OAKS.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/OAKS.cpp",
+  "output": "CMakeFiles/de_chon_OAKS.dir/src/tap_2/de_chon/OAKS.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_chon_main.dir/src/tap_2/de_chon/main.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/main.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/main.cpp",
+  "output": "CMakeFiles/de_chon_main.dir/src/tap_2/de_chon/main.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/de_olympic_1_NANGLUONG.dir/src/tap_2/de_olympic_1/NANGLUONG.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_olympic_1/NANGLUONG.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_olympic_1/NANGLUONG.cpp",
+  "output": "CMakeFiles/de_olympic_1_NANGLUONG.dir/src/tap_2/de_olympic_1/NANGLUONG.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/graph_theory_adj_matrix.dir/src/tap_2/graph_theory/adj_matrix.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/graph_theory/adj_matrix.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/graph_theory/adj_matrix.cpp",
+  "output": "CMakeFiles/graph_theory_adj_matrix.dir/src/tap_2/graph_theory/adj_matrix.cpp.o"
+}
+]

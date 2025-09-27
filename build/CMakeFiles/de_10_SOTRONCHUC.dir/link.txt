@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/de_10_SOTRONCHUC.dir/link.d CMakeFiles/de_10_SOTRONCHUC.dir/src/tap_1/de_10/SOTRONCHUC.cpp.o -o de_10_SOTRONCHUC

@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/de_chon_main.dir/link.d CMakeFiles/de_chon_main.dir/src/tap_2/de_chon/main.cpp.o -o de_chon_main
