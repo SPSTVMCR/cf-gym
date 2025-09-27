@@ -1,3 +1,6 @@
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/graph_theory_adj_matrix.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_DAYNGOAC.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_reverse_string.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_1_CHUDE.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_1_SODOCLAP.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_1_WRESTLING.dir
@@ -53,6 +56,5 @@
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_chon_OAKS.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_chon_main.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_olympic_1_NANGLUONG.dir
-/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/graph_theory_adj_matrix.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/edit_cache.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/rebuild_cache.dir

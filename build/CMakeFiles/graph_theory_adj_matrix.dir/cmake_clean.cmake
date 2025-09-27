@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/graph_theory_adj_matrix.dir/link.d"
-  "CMakeFiles/graph_theory_adj_matrix.dir/src/tap_2/graph_theory/adj_matrix.cpp.o"
-  "CMakeFiles/graph_theory_adj_matrix.dir/src/tap_2/graph_theory/adj_matrix.cpp.o.d"
+  "CMakeFiles/graph_theory_adj_matrix.dir/src/study/graph_theory/adj_matrix.cpp.o"
+  "CMakeFiles/graph_theory_adj_matrix.dir/src/study/graph_theory/adj_matrix.cpp.o.d"
   "graph_theory_adj_matrix"
   "graph_theory_adj_matrix.pdb"
 )

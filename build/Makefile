@@ -118,6 +118,45 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named graph_theory_adj_matrix
+
+# Build rule for target.
+graph_theory_adj_matrix: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 graph_theory_adj_matrix
+.PHONY : graph_theory_adj_matrix
+
+# fast build rule for target.
+graph_theory_adj_matrix/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/build
+.PHONY : graph_theory_adj_matrix/fast
+
+#=============================================================================
+# Target rules for targets named stack_n_queue_DAYNGOAC
+
+# Build rule for target.
+stack_n_queue_DAYNGOAC: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 stack_n_queue_DAYNGOAC
+.PHONY : stack_n_queue_DAYNGOAC
+
+# fast build rule for target.
+stack_n_queue_DAYNGOAC/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_DAYNGOAC.dir/build.make CMakeFiles/stack_n_queue_DAYNGOAC.dir/build
+.PHONY : stack_n_queue_DAYNGOAC/fast
+
+#=============================================================================
+# Target rules for targets named stack_n_queue_reverse_string
+
+# Build rule for target.
+stack_n_queue_reverse_string: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 stack_n_queue_reverse_string
+.PHONY : stack_n_queue_reverse_string
+
+# fast build rule for target.
+stack_n_queue_reverse_string/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_reverse_string.dir/build.make CMakeFiles/stack_n_queue_reverse_string.dir/build
+.PHONY : stack_n_queue_reverse_string/fast
+
+#=============================================================================
 # Target rules for targets named de_1_CHUDE
 
 # Build rule for target.
@@ -832,18 +871,77 @@ de_olympic_1_NANGLUONG/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/de_olympic_1_NANGLUONG.dir/build.make CMakeFiles/de_olympic_1_NANGLUONG.dir/build
 .PHONY : de_olympic_1_NANGLUONG/fast
 
-#=============================================================================
-# Target rules for targets named graph_theory_adj_matrix
+src/study/graph_theory/adj_matrix.o: src/study/graph_theory/adj_matrix.cpp.o
+.PHONY : src/study/graph_theory/adj_matrix.o
 
-# Build rule for target.
-graph_theory_adj_matrix: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 graph_theory_adj_matrix
-.PHONY : graph_theory_adj_matrix
+# target to build an object file
+src/study/graph_theory/adj_matrix.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/src/study/graph_theory/adj_matrix.cpp.o
+.PHONY : src/study/graph_theory/adj_matrix.cpp.o
 
-# fast build rule for target.
-graph_theory_adj_matrix/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/build
-.PHONY : graph_theory_adj_matrix/fast
+src/study/graph_theory/adj_matrix.i: src/study/graph_theory/adj_matrix.cpp.i
+.PHONY : src/study/graph_theory/adj_matrix.i
+
+# target to preprocess a source file
+src/study/graph_theory/adj_matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/src/study/graph_theory/adj_matrix.cpp.i
+.PHONY : src/study/graph_theory/adj_matrix.cpp.i
+
+src/study/graph_theory/adj_matrix.s: src/study/graph_theory/adj_matrix.cpp.s
+.PHONY : src/study/graph_theory/adj_matrix.s
+
+# target to generate assembly for a file
+src/study/graph_theory/adj_matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/src/study/graph_theory/adj_matrix.cpp.s
+.PHONY : src/study/graph_theory/adj_matrix.cpp.s
+
+src/study/stack_n_queue/DAYNGOAC.o: src/study/stack_n_queue/DAYNGOAC.cpp.o
+.PHONY : src/study/stack_n_queue/DAYNGOAC.o
+
+# target to build an object file
+src/study/stack_n_queue/DAYNGOAC.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_DAYNGOAC.dir/build.make CMakeFiles/stack_n_queue_DAYNGOAC.dir/src/study/stack_n_queue/DAYNGOAC.cpp.o
+.PHONY : src/study/stack_n_queue/DAYNGOAC.cpp.o
+
+src/study/stack_n_queue/DAYNGOAC.i: src/study/stack_n_queue/DAYNGOAC.cpp.i
+.PHONY : src/study/stack_n_queue/DAYNGOAC.i
+
+# target to preprocess a source file
+src/study/stack_n_queue/DAYNGOAC.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_DAYNGOAC.dir/build.make CMakeFiles/stack_n_queue_DAYNGOAC.dir/src/study/stack_n_queue/DAYNGOAC.cpp.i
+.PHONY : src/study/stack_n_queue/DAYNGOAC.cpp.i
+
+src/study/stack_n_queue/DAYNGOAC.s: src/study/stack_n_queue/DAYNGOAC.cpp.s
+.PHONY : src/study/stack_n_queue/DAYNGOAC.s
+
+# target to generate assembly for a file
+src/study/stack_n_queue/DAYNGOAC.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_DAYNGOAC.dir/build.make CMakeFiles/stack_n_queue_DAYNGOAC.dir/src/study/stack_n_queue/DAYNGOAC.cpp.s
+.PHONY : src/study/stack_n_queue/DAYNGOAC.cpp.s
+
+src/study/stack_n_queue/reverse_string.o: src/study/stack_n_queue/reverse_string.cpp.o
+.PHONY : src/study/stack_n_queue/reverse_string.o
+
+# target to build an object file
+src/study/stack_n_queue/reverse_string.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_reverse_string.dir/build.make CMakeFiles/stack_n_queue_reverse_string.dir/src/study/stack_n_queue/reverse_string.cpp.o
+.PHONY : src/study/stack_n_queue/reverse_string.cpp.o
+
+src/study/stack_n_queue/reverse_string.i: src/study/stack_n_queue/reverse_string.cpp.i
+.PHONY : src/study/stack_n_queue/reverse_string.i
+
+# target to preprocess a source file
+src/study/stack_n_queue/reverse_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_reverse_string.dir/build.make CMakeFiles/stack_n_queue_reverse_string.dir/src/study/stack_n_queue/reverse_string.cpp.i
+.PHONY : src/study/stack_n_queue/reverse_string.cpp.i
+
+src/study/stack_n_queue/reverse_string.s: src/study/stack_n_queue/reverse_string.cpp.s
+.PHONY : src/study/stack_n_queue/reverse_string.s
+
+# target to generate assembly for a file
+src/study/stack_n_queue/reverse_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/stack_n_queue_reverse_string.dir/build.make CMakeFiles/stack_n_queue_reverse_string.dir/src/study/stack_n_queue/reverse_string.cpp.s
+.PHONY : src/study/stack_n_queue/reverse_string.cpp.s
 
 src/tap_1/de_1/CHUDE.o: src/tap_1/de_1/CHUDE.cpp.o
 .PHONY : src/tap_1/de_1/CHUDE.o
@@ -2165,30 +2263,6 @@ src/tap_2/de_olympic_1/NANGLUONG.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/de_olympic_1_NANGLUONG.dir/build.make CMakeFiles/de_olympic_1_NANGLUONG.dir/src/tap_2/de_olympic_1/NANGLUONG.cpp.s
 .PHONY : src/tap_2/de_olympic_1/NANGLUONG.cpp.s
 
-src/tap_2/graph_theory/adj_matrix.o: src/tap_2/graph_theory/adj_matrix.cpp.o
-.PHONY : src/tap_2/graph_theory/adj_matrix.o
-
-# target to build an object file
-src/tap_2/graph_theory/adj_matrix.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/src/tap_2/graph_theory/adj_matrix.cpp.o
-.PHONY : src/tap_2/graph_theory/adj_matrix.cpp.o
-
-src/tap_2/graph_theory/adj_matrix.i: src/tap_2/graph_theory/adj_matrix.cpp.i
-.PHONY : src/tap_2/graph_theory/adj_matrix.i
-
-# target to preprocess a source file
-src/tap_2/graph_theory/adj_matrix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/src/tap_2/graph_theory/adj_matrix.cpp.i
-.PHONY : src/tap_2/graph_theory/adj_matrix.cpp.i
-
-src/tap_2/graph_theory/adj_matrix.s: src/tap_2/graph_theory/adj_matrix.cpp.s
-.PHONY : src/tap_2/graph_theory/adj_matrix.s
-
-# target to generate assembly for a file
-src/tap_2/graph_theory/adj_matrix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_theory_adj_matrix.dir/build.make CMakeFiles/graph_theory_adj_matrix.dir/src/tap_2/graph_theory/adj_matrix.cpp.s
-.PHONY : src/tap_2/graph_theory/adj_matrix.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -2253,6 +2327,17 @@ help:
 	@echo "... de_chon_main"
 	@echo "... de_olympic_1_NANGLUONG"
 	@echo "... graph_theory_adj_matrix"
+	@echo "... stack_n_queue_DAYNGOAC"
+	@echo "... stack_n_queue_reverse_string"
+	@echo "... src/study/graph_theory/adj_matrix.o"
+	@echo "... src/study/graph_theory/adj_matrix.i"
+	@echo "... src/study/graph_theory/adj_matrix.s"
+	@echo "... src/study/stack_n_queue/DAYNGOAC.o"
+	@echo "... src/study/stack_n_queue/DAYNGOAC.i"
+	@echo "... src/study/stack_n_queue/DAYNGOAC.s"
+	@echo "... src/study/stack_n_queue/reverse_string.o"
+	@echo "... src/study/stack_n_queue/reverse_string.i"
+	@echo "... src/study/stack_n_queue/reverse_string.s"
 	@echo "... src/tap_1/de_1/CHUDE.o"
 	@echo "... src/tap_1/de_1/CHUDE.i"
 	@echo "... src/tap_1/de_1/CHUDE.s"
@@ -2418,9 +2503,6 @@ help:
 	@echo "... src/tap_2/de_olympic_1/NANGLUONG.o"
 	@echo "... src/tap_2/de_olympic_1/NANGLUONG.i"
 	@echo "... src/tap_2/de_olympic_1/NANGLUONG.s"
-	@echo "... src/tap_2/graph_theory/adj_matrix.o"
-	@echo "... src/tap_2/graph_theory/adj_matrix.i"
-	@echo "... src/tap_2/graph_theory/adj_matrix.s"
 .PHONY : help
 
 

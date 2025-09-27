@@ -9,6 +9,7 @@ file(GLOB_RECURSE ALL_SOURCES
         CONFIGURE_DEPENDS
         "src/tap_1/**/*.cpp"
         "src/tap_2/**/*.cpp"
+        "src/study/**/*.cpp"
 )
 
 # For each source, create an executable target named <folder>_<basename>

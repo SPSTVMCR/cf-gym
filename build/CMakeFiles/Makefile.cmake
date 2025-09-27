@@ -49,6 +49,9 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/graph_theory_adj_matrix.dir/DependInfo.cmake"
+  "CMakeFiles/stack_n_queue_DAYNGOAC.dir/DependInfo.cmake"
+  "CMakeFiles/stack_n_queue_reverse_string.dir/DependInfo.cmake"
   "CMakeFiles/de_1_CHUDE.dir/DependInfo.cmake"
   "CMakeFiles/de_1_SODOCLAP.dir/DependInfo.cmake"
   "CMakeFiles/de_1_WRESTLING.dir/DependInfo.cmake"
@@ -104,5 +107,4 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/de_chon_OAKS.dir/DependInfo.cmake"
   "CMakeFiles/de_chon_main.dir/DependInfo.cmake"
   "CMakeFiles/de_olympic_1_NANGLUONG.dir/DependInfo.cmake"
-  "CMakeFiles/graph_theory_adj_matrix.dir/DependInfo.cmake"
   )

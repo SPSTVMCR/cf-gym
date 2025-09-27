@@ -1,0 +1,573 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cp_books",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "de_10_DEMTG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_10_DEMTG-RelWithDebInfo-a13b1d79afb4860d191c.json",
+					"name" : "de_10_DEMTG",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_10_QUERY::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_10_QUERY-RelWithDebInfo-42a9b405156aa9438090.json",
+					"name" : "de_10_QUERY",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_10_SOTRONCHUC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_10_SOTRONCHUC-RelWithDebInfo-78ded4b4b2510cdfc3d2.json",
+					"name" : "de_10_SOTRONCHUC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_11_CLB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_11_CLB-RelWithDebInfo-acafaed22ab04b713627.json",
+					"name" : "de_11_CLB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_11_CTURTLE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_11_CTURTLE-RelWithDebInfo-cd6c4703d802e171c505.json",
+					"name" : "de_11_CTURTLE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_11_PHANLOAI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_11_PHANLOAI-RelWithDebInfo-3b89184441d84e951502.json",
+					"name" : "de_11_PHANLOAI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_11_SOHOC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_11_SOHOC-RelWithDebInfo-535ba083a3f43d13ad54.json",
+					"name" : "de_11_SOHOC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_12_SEQ1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_12_SEQ1-RelWithDebInfo-353596af1b511259c8d7.json",
+					"name" : "de_12_SEQ1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_12_TBG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_12_TBG-RelWithDebInfo-e7eee189bb4b82992a87.json",
+					"name" : "de_12_TBG",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_12_THUONG1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_12_THUONG1-RelWithDebInfo-6f1c144512699b359d42.json",
+					"name" : "de_12_THUONG1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_13_BUILDING::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_13_BUILDING-RelWithDebInfo-c0596a5a5c35e09e3721.json",
+					"name" : "de_13_BUILDING",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_13_MM1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_13_MM1-RelWithDebInfo-a5b00e6ec07389c2715c.json",
+					"name" : "de_13_MM1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_13_SXSO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_13_SXSO-RelWithDebInfo-65fa3b4a4e8c19107747.json",
+					"name" : "de_13_SXSO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_15_EQUA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_15_EQUA-RelWithDebInfo-e3629e21ca578c64e3cd.json",
+					"name" : "de_15_EQUA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_15_NTO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_15_NTO-RelWithDebInfo-46bab148260ce304f1c0.json",
+					"name" : "de_15_NTO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_17_DONU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_17_DONU-RelWithDebInfo-1a20b2d13d3add234520.json",
+					"name" : "de_17_DONU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_17_GHESO1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_17_GHESO1-RelWithDebInfo-bbc7affea0f33f580542.json",
+					"name" : "de_17_GHESO1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_17_MHKM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_17_MHKM-RelWithDebInfo-a5e887d02f03987344fa.json",
+					"name" : "de_17_MHKM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_17_OCHU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_17_OCHU-RelWithDebInfo-2609709311eb57b5d90a.json",
+					"name" : "de_17_OCHU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_1_CHUDE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_1_CHUDE-RelWithDebInfo-1691edd1ae844a5674d8.json",
+					"name" : "de_1_CHUDE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_1_SODOCLAP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_1_SODOCLAP-RelWithDebInfo-44367b85302bc520d33f.json",
+					"name" : "de_1_SODOCLAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_1_WRESTLING::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_1_WRESTLING-RelWithDebInfo-55ab0565e24c5dffe04e.json",
+					"name" : "de_1_WRESTLING",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_1_XAUHH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_1_XAUHH-RelWithDebInfo-1bd5b4186d0c6822cf8e.json",
+					"name" : "de_1_XAUHH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_2_COUNT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_2_COUNT-RelWithDebInfo-3e210adf7051814455ed.json",
+					"name" : "de_2_COUNT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_2_KCSD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_2_KCSD-RelWithDebInfo-729ed7755f27deac87df.json",
+					"name" : "de_2_KCSD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_2_LOCSO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_2_LOCSO-RelWithDebInfo-d879e90379226f83ea90.json",
+					"name" : "de_2_LOCSO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_2_NEW::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_2_NEW-RelWithDebInfo-8804d0abd57ae83117d1.json",
+					"name" : "de_2_NEW",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_3_GROUP1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_3_GROUP1-RelWithDebInfo-5c28f280873db1747032.json",
+					"name" : "de_3_GROUP1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_3_MMAX::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_3_MMAX-RelWithDebInfo-5fc160c648f3f0d32245.json",
+					"name" : "de_3_MMAX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_3_MODULO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_3_MODULO-RelWithDebInfo-c102668c4a2c392b0658.json",
+					"name" : "de_3_MODULO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_3_VNI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_3_VNI-RelWithDebInfo-55a15e06e28439304377.json",
+					"name" : "de_3_VNI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_4_FSET::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_4_FSET-RelWithDebInfo-6f5ef28dc631879d34cb.json",
+					"name" : "de_4_FSET",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_4_SNTLN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_4_SNTLN-RelWithDebInfo-ffed2bde065a4204e4e1.json",
+					"name" : "de_4_SNTLN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_4_SSNT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_4_SSNT-RelWithDebInfo-f6aeda53472c1f560706.json",
+					"name" : "de_4_SSNT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_4_TIMSO3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_4_TIMSO3-RelWithDebInfo-4519975425b3f0efaec7.json",
+					"name" : "de_4_TIMSO3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_5_LTBN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_5_LTBN-RelWithDebInfo-fef32f01fa6087bcc668.json",
+					"name" : "de_5_LTBN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_5_TROCHOI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_5_TROCHOI-RelWithDebInfo-b72c548fce0751526da5.json",
+					"name" : "de_5_TROCHOI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_5_XDTV::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_5_XDTV-RelWithDebInfo-df25ce6ccbf9f5a374fc.json",
+					"name" : "de_5_XDTV",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_5_XEPDIA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_5_XEPDIA-RelWithDebInfo-772c9a93f078342e4ac9.json",
+					"name" : "de_5_XEPDIA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_6_QLBD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_6_QLBD-RelWithDebInfo-950b80766ab1de493d27.json",
+					"name" : "de_6_QLBD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_7_BDKH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_7_BDKH-RelWithDebInfo-b32644d2ab57e87c7809.json",
+					"name" : "de_7_BDKH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_7_EVENPAIR::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_7_EVENPAIR-RelWithDebInfo-f070f11492f372a5baa3.json",
+					"name" : "de_7_EVENPAIR",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_7_ITABLE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_7_ITABLE-RelWithDebInfo-f676ca0680edc199405d.json",
+					"name" : "de_7_ITABLE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_7_VANCHUYEN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_7_VANCHUYEN-RelWithDebInfo-2d971c83370d0143e442.json",
+					"name" : "de_7_VANCHUYEN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_8_RGAME::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_8_RGAME-RelWithDebInfo-c52bb128fbc3832d9f47.json",
+					"name" : "de_8_RGAME",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_8_TAMGIAC3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_8_TAMGIAC3-RelWithDebInfo-cd37c86027fda4142df5.json",
+					"name" : "de_8_TAMGIAC3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_8_TERA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_8_TERA-RelWithDebInfo-d775dbe4c2cf4e2aa8bb.json",
+					"name" : "de_8_TERA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_8_TGCAN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_8_TGCAN-RelWithDebInfo-34cbeb3d19f1b680bde3.json",
+					"name" : "de_8_TGCAN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_9_ICPC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_9_ICPC-RelWithDebInfo-a4ef11341f0e47e0278c.json",
+					"name" : "de_9_ICPC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_9_SPIRAL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_9_SPIRAL-RelWithDebInfo-a37e93c9d98710f0663c.json",
+					"name" : "de_9_SPIRAL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_9_THONGKE1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_9_THONGKE1-RelWithDebInfo-08970c27578f11a37bf0.json",
+					"name" : "de_9_THONGKE1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_chon_LOTRINH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_chon_LOTRINH-RelWithDebInfo-1901866ae44d06effa46.json",
+					"name" : "de_chon_LOTRINH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_chon_OAKS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_chon_OAKS-RelWithDebInfo-50aabd397ec2ea5e1272.json",
+					"name" : "de_chon_OAKS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_chon_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_chon_main-RelWithDebInfo-f5357bbaab84c169978a.json",
+					"name" : "de_chon_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "de_olympic_1_NANGLUONG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-de_olympic_1_NANGLUONG-RelWithDebInfo-bd6dae2bbf73288f3944.json",
+					"name" : "de_olympic_1_NANGLUONG",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graph_theory_adj_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graph_theory_adj_matrix-RelWithDebInfo-120844176b75b8047d23.json",
+					"name" : "graph_theory_adj_matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack_n_queue_DAYNGOAC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack_n_queue_DAYNGOAC-RelWithDebInfo-7997973bfd0d5b9f3745.json",
+					"name" : "stack_n_queue_DAYNGOAC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack_n_queue_reverse_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack_n_queue_reverse_string-RelWithDebInfo-00b88c6f3805d3e33996.json",
+					"name" : "stack_n_queue_reverse_string",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+		"source" : "/mnt/SharedData/Code/cf-gym/cf-gym"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
