@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/de_9_THONGKE1.dir/link.d CMakeFiles/de_9_THONGKE1.dir/src/tap_1/de_9/THONGKE1.cpp.o -o de_9_THONGKE1

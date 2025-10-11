@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/de_10_QUERY.dir/link.d CMakeFiles/de_10_QUERY.dir/src/tap_1/de_10/QUERY.cpp.o -o de_10_QUERY

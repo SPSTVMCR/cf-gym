@@ -10,6 +10,9 @@ file(GLOB_RECURSE ALL_SOURCES
         "src/tap_1/**/*.cpp"
         "src/tap_2/**/*.cpp"
         "src/study/**/*.cpp"
+        "src/con_greedy/*.cpp"
+        "src/con_divconq/*.cpp"
+        "src/con_graph/*.cpp"
 )
 
 # For each source, create an executable target named <folder>_<basename>

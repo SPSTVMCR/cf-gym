@@ -1,6 +1,12 @@
 [
 {
   "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/con_divconq_DOITIEN.dir/src/con_divconq/DOITIEN.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/con_divconq/DOITIEN.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_divconq/DOITIEN.cpp",
+  "output": "CMakeFiles/con_divconq_DOITIEN.dir/src/con_divconq/DOITIEN.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
   "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/graph_theory_adj_matrix.dir/src/study/graph_theory/adj_matrix.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/study/graph_theory/adj_matrix.cpp",
   "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/study/graph_theory/adj_matrix.cpp",
   "output": "CMakeFiles/graph_theory_adj_matrix.dir/src/study/graph_theory/adj_matrix.cpp.o"
@@ -13,9 +19,39 @@
 },
 {
   "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/stack_n_queue_HaiDaySo.dir/src/study/stack_n_queue/HaiDaySo.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/HaiDaySo.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/HaiDaySo.cpp",
+  "output": "CMakeFiles/stack_n_queue_HaiDaySo.dir/src/study/stack_n_queue/HaiDaySo.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/stack_n_queue_TOPK.dir/src/study/stack_n_queue/TOPK.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/TOPK.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/TOPK.cpp",
+  "output": "CMakeFiles/stack_n_queue_TOPK.dir/src/study/stack_n_queue/TOPK.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/stack_n_queue_priority_queue.dir/src/study/stack_n_queue/priority_queue.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/priority_queue.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/priority_queue.cpp",
+  "output": "CMakeFiles/stack_n_queue_priority_queue.dir/src/study/stack_n_queue/priority_queue.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/stack_n_queue_priority_queue_2.dir/src/study/stack_n_queue/priority_queue_2.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/priority_queue_2.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/priority_queue_2.cpp",
+  "output": "CMakeFiles/stack_n_queue_priority_queue_2.dir/src/study/stack_n_queue/priority_queue_2.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
   "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/stack_n_queue_reverse_string.dir/src/study/stack_n_queue/reverse_string.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/reverse_string.cpp",
   "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/reverse_string.cpp",
   "output": "CMakeFiles/stack_n_queue_reverse_string.dir/src/study/stack_n_queue/reverse_string.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/triangle_review_DEMTG.dir/src/study/triangle_review/DEMTG.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/study/triangle_review/DEMTG.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/study/triangle_review/DEMTG.cpp",
+  "output": "CMakeFiles/triangle_review_DEMTG.dir/src/study/triangle_review/DEMTG.cpp.o"
 },
 {
   "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",

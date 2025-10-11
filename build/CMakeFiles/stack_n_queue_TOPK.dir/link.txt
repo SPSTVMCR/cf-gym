@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/stack_n_queue_TOPK.dir/link.d CMakeFiles/stack_n_queue_TOPK.dir/src/study/stack_n_queue/TOPK.cpp.o -o stack_n_queue_TOPK

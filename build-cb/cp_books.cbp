@@ -1,0 +1,3181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cp_books"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="con_divconq_DOITIEN">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/con_divconq_DOITIEN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 con_divconq_DOITIEN"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="con_divconq_DOITIEN/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/con_divconq_DOITIEN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 con_divconq_DOITIEN/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph_theory_adj_matrix">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/graph_theory_adj_matrix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 graph_theory_adj_matrix"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graph_theory_adj_matrix/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/graph_theory_adj_matrix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 graph_theory_adj_matrix/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_DAYNGOAC">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_DAYNGOAC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_DAYNGOAC"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_DAYNGOAC/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_DAYNGOAC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_DAYNGOAC/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_HaiDaySo">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_HaiDaySo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_HaiDaySo"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_HaiDaySo/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_HaiDaySo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_HaiDaySo/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_TOPK">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_TOPK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_TOPK"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_TOPK/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_TOPK" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_TOPK/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_priority_queue">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_priority_queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_priority_queue"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_priority_queue/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_priority_queue" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_priority_queue/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_priority_queue_2">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_priority_queue_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_priority_queue_2"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_priority_queue_2/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_priority_queue_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_priority_queue_2/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_reverse_string">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_reverse_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_reverse_string"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_n_queue_reverse_string/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/stack_n_queue_reverse_string" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 stack_n_queue_reverse_string/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangle_review_DEMTG">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/triangle_review_DEMTG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 triangle_review_DEMTG"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangle_review_DEMTG/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/triangle_review_DEMTG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 triangle_review_DEMTG/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_CHUDE">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_CHUDE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_CHUDE"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_CHUDE/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_CHUDE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_CHUDE/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_SODOCLAP">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_SODOCLAP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_SODOCLAP"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_SODOCLAP/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_SODOCLAP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_SODOCLAP/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_WRESTLING">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_WRESTLING" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_WRESTLING"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_WRESTLING/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_WRESTLING" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_WRESTLING/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_XAUHH">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_XAUHH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_XAUHH"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_1_XAUHH/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_1_XAUHH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_1_XAUHH/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_10_DEMTG">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_10_DEMTG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_10_DEMTG"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_10_DEMTG/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_10_DEMTG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_10_DEMTG/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_10_QUERY">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_10_QUERY" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_10_QUERY"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_10_QUERY/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_10_QUERY" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_10_QUERY/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_10_SOTRONCHUC">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_10_SOTRONCHUC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_10_SOTRONCHUC"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_10_SOTRONCHUC/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_10_SOTRONCHUC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_10_SOTRONCHUC/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_COUNT">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_COUNT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_COUNT"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_COUNT/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_COUNT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_COUNT/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_KCSD">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_KCSD" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_KCSD"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_KCSD/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_KCSD" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_KCSD/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_LOCSO">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_LOCSO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_LOCSO"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_LOCSO/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_LOCSO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_LOCSO/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_NEW">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_NEW" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_NEW"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_2_NEW/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_2_NEW" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_2_NEW/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_GROUP1">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_GROUP1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_GROUP1"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_GROUP1/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_GROUP1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_GROUP1/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_MMAX">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_MMAX" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_MMAX"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_MMAX/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_MMAX" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_MMAX/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_MODULO">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_MODULO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_MODULO"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_MODULO/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_MODULO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_MODULO/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_VNI">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_VNI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_VNI"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_3_VNI/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_3_VNI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_3_VNI/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_FSET">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_FSET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_FSET"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_FSET/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_FSET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_FSET/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_SNTLN">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_SNTLN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_SNTLN"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_SNTLN/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_SNTLN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_SNTLN/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_SSNT">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_SSNT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_SSNT"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_SSNT/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_SSNT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_SSNT/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_TIMSO3">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_TIMSO3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_TIMSO3"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_4_TIMSO3/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_4_TIMSO3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_4_TIMSO3/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_LTBN">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_LTBN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_LTBN"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_LTBN/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_LTBN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_LTBN/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_TROCHOI">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_TROCHOI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_TROCHOI"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_TROCHOI/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_TROCHOI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_TROCHOI/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_XDTV">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_XDTV" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_XDTV"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_XDTV/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_XDTV" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_XDTV/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_XEPDIA">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_XEPDIA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_XEPDIA"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_5_XEPDIA/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_5_XEPDIA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_5_XEPDIA/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_6_QLBD">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_6_QLBD" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_6_QLBD"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_6_QLBD/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_6_QLBD" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_6_QLBD/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_BDKH">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_BDKH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_BDKH"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_BDKH/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_BDKH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_BDKH/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_EVENPAIR">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_EVENPAIR" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_EVENPAIR"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_EVENPAIR/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_EVENPAIR" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_EVENPAIR/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_ITABLE">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_ITABLE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_ITABLE"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_ITABLE/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_ITABLE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_ITABLE/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_VANCHUYEN">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_VANCHUYEN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_VANCHUYEN"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_7_VANCHUYEN/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_7_VANCHUYEN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_7_VANCHUYEN/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_RGAME">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_RGAME" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_RGAME"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_RGAME/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_RGAME" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_RGAME/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_TAMGIAC3">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_TAMGIAC3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_TAMGIAC3"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_TAMGIAC3/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_TAMGIAC3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_TAMGIAC3/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_TERA">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_TERA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_TERA"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_TERA/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_TERA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_TERA/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_TGCAN">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_TGCAN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_TGCAN"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_8_TGCAN/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_8_TGCAN" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_8_TGCAN/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_9_ICPC">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_9_ICPC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_9_ICPC"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_9_ICPC/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_9_ICPC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_9_ICPC/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_9_SPIRAL">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_9_SPIRAL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_9_SPIRAL"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_9_SPIRAL/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_9_SPIRAL" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_9_SPIRAL/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_9_THONGKE1">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_9_THONGKE1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_9_THONGKE1"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_9_THONGKE1/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_9_THONGKE1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_9_THONGKE1/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_CLB">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_CLB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_CLB"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_CLB/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_CLB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_CLB/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_CTURTLE">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_CTURTLE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_CTURTLE"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_CTURTLE/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_CTURTLE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_CTURTLE/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_PHANLOAI">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_PHANLOAI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_PHANLOAI"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_PHANLOAI/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_PHANLOAI" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_PHANLOAI/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_SOHOC">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_SOHOC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_SOHOC"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_11_SOHOC/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_11_SOHOC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_11_SOHOC/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_12_SEQ1">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_12_SEQ1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_12_SEQ1"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_12_SEQ1/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_12_SEQ1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_12_SEQ1/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_12_TBG">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_12_TBG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_12_TBG"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_12_TBG/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_12_TBG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_12_TBG/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_12_THUONG1">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_12_THUONG1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_12_THUONG1"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_12_THUONG1/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_12_THUONG1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_12_THUONG1/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_13_BUILDING">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_13_BUILDING" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_13_BUILDING"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_13_BUILDING/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_13_BUILDING" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_13_BUILDING/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_13_MM1">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_13_MM1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_13_MM1"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_13_MM1/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_13_MM1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_13_MM1/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_13_SXSO">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_13_SXSO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_13_SXSO"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_13_SXSO/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_13_SXSO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_13_SXSO/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_15_EQUA">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_15_EQUA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_15_EQUA"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_15_EQUA/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_15_EQUA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_15_EQUA/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_15_NTO">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_15_NTO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_15_NTO"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_15_NTO/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_15_NTO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_15_NTO/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_DONU">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_DONU" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_DONU"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_DONU/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_DONU" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_DONU/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_GHESO1">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_GHESO1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_GHESO1"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_GHESO1/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_GHESO1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_GHESO1/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_MHKM">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_MHKM" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_MHKM"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_MHKM/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_MHKM" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_MHKM/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_OCHU">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_OCHU" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_OCHU"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_17_OCHU/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_17_OCHU" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_17_OCHU/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_chon_LOTRINH">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_chon_LOTRINH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_chon_LOTRINH"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_chon_LOTRINH/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_chon_LOTRINH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_chon_LOTRINH/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_chon_OAKS">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_chon_OAKS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_chon_OAKS"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_chon_OAKS/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_chon_OAKS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_chon_OAKS/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_chon_main">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_chon_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_chon_main"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_chon_main/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_chon_main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_chon_main/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_olympic_1_NANGLUONG">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_olympic_1_NANGLUONG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_olympic_1_NANGLUONG"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_olympic_1_NANGLUONG/fast">
+				<Option output="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/de_olympic_1_NANGLUONG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/15"/>
+					<Add directory="/usr/include/c++/15/x86_64-suse-linux"/>
+					<Add directory="/usr/include/c++/15/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/include-fixed"/>
+					<Add directory="/usr/lib64/gcc/x86_64-suse-linux/15/../../../../x86_64-suse-linux/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 de_olympic_1_NANGLUONG/fast"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/SharedData/Code/cf-gym/cf-gym/build-cb"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="make -j8 -f &quot;/mnt/SharedData/Code/cf-gym/cf-gym/build-cb/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/con_divconq/DOITIEN.cpp">
+			<Option target="con_divconq_DOITIEN"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/graph_theory/adj_matrix.cpp">
+			<Option target="graph_theory_adj_matrix"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/DAYNGOAC.cpp">
+			<Option target="stack_n_queue_DAYNGOAC"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/HaiDaySo.cpp">
+			<Option target="stack_n_queue_HaiDaySo"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/TOPK.cpp">
+			<Option target="stack_n_queue_TOPK"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/priority_queue.cpp">
+			<Option target="stack_n_queue_priority_queue"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/priority_queue_2.cpp">
+			<Option target="stack_n_queue_priority_queue_2"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/stack_n_queue/reverse_string.cpp">
+			<Option target="stack_n_queue_reverse_string"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/study/triangle_review/DEMTG.cpp">
+			<Option target="triangle_review_DEMTG"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/CHUDE.cpp">
+			<Option target="de_1_CHUDE"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/SODOCLAP.cpp">
+			<Option target="de_1_SODOCLAP"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/WRESTLING.cpp">
+			<Option target="de_1_WRESTLING"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_1/XAUHH.cpp">
+			<Option target="de_1_XAUHH"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/DEMTG.cpp">
+			<Option target="de_10_DEMTG"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/QUERY.cpp">
+			<Option target="de_10_QUERY"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_10/SOTRONCHUC.cpp">
+			<Option target="de_10_SOTRONCHUC"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/COUNT.cpp">
+			<Option target="de_2_COUNT"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/KCSD.cpp">
+			<Option target="de_2_KCSD"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/LOCSO.cpp">
+			<Option target="de_2_LOCSO"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_2/NEW.cpp">
+			<Option target="de_2_NEW"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/GROUP1.cpp">
+			<Option target="de_3_GROUP1"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/MMAX.cpp">
+			<Option target="de_3_MMAX"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/MODULO.cpp">
+			<Option target="de_3_MODULO"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_3/VNI.cpp">
+			<Option target="de_3_VNI"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/FSET.cpp">
+			<Option target="de_4_FSET"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/SNTLN.cpp">
+			<Option target="de_4_SNTLN"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/SSNT.cpp">
+			<Option target="de_4_SSNT"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_4/TIMSO3.cpp">
+			<Option target="de_4_TIMSO3"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/LTBN.cpp">
+			<Option target="de_5_LTBN"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/TROCHOI.cpp">
+			<Option target="de_5_TROCHOI"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/XDTV.cpp">
+			<Option target="de_5_XDTV"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_5/XEPDIA.cpp">
+			<Option target="de_5_XEPDIA"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_6/QLBD.cpp">
+			<Option target="de_6_QLBD"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/BDKH.cpp">
+			<Option target="de_7_BDKH"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/EVENPAIR.cpp">
+			<Option target="de_7_EVENPAIR"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/ITABLE.cpp">
+			<Option target="de_7_ITABLE"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_7/VANCHUYEN.cpp">
+			<Option target="de_7_VANCHUYEN"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/RGAME.cpp">
+			<Option target="de_8_RGAME"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TAMGIAC3.cpp">
+			<Option target="de_8_TAMGIAC3"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TERA.cpp">
+			<Option target="de_8_TERA"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_8/TGCAN.cpp">
+			<Option target="de_8_TGCAN"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/ICPC.cpp">
+			<Option target="de_9_ICPC"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/SPIRAL.cpp">
+			<Option target="de_9_SPIRAL"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_1/de_9/THONGKE1.cpp">
+			<Option target="de_9_THONGKE1"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/CLB.cpp">
+			<Option target="de_11_CLB"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/CTURTLE.cpp">
+			<Option target="de_11_CTURTLE"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/PHANLOAI.cpp">
+			<Option target="de_11_PHANLOAI"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_11/SOHOC.cpp">
+			<Option target="de_11_SOHOC"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/SEQ1.cpp">
+			<Option target="de_12_SEQ1"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/TBG.cpp">
+			<Option target="de_12_TBG"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_12/THUONG1.cpp">
+			<Option target="de_12_THUONG1"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/BUILDING.cpp">
+			<Option target="de_13_BUILDING"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/MM1.cpp">
+			<Option target="de_13_MM1"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_13/SXSO.cpp">
+			<Option target="de_13_SXSO"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_15/EQUA.cpp">
+			<Option target="de_15_EQUA"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_15/NTO.cpp">
+			<Option target="de_15_NTO"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/DONU.cpp">
+			<Option target="de_17_DONU"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/GHESO1.cpp">
+			<Option target="de_17_GHESO1"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/MHKM.cpp">
+			<Option target="de_17_MHKM"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_17/OCHU.cpp">
+			<Option target="de_17_OCHU"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/LOTRINH.cpp">
+			<Option target="de_chon_LOTRINH"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/OAKS.cpp">
+			<Option target="de_chon_OAKS"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_chon/main.cpp">
+			<Option target="de_chon_main"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/src/tap_2/de_olympic_1/NANGLUONG.cpp">
+			<Option target="de_olympic_1_NANGLUONG"/>
+		</Unit>
+		<Unit filename="/mnt/SharedData/Code/cf-gym/cf-gym/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

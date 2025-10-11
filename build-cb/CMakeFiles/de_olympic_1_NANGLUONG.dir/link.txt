@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/de_olympic_1_NANGLUONG.dir/link.d CMakeFiles/de_olympic_1_NANGLUONG.dir/src/tap_2/de_olympic_1/NANGLUONG.cpp.o -o de_olympic_1_NANGLUONG

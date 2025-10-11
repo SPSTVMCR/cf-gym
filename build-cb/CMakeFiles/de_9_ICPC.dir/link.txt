@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/de_9_ICPC.dir/link.d CMakeFiles/de_9_ICPC.dir/src/tap_1/de_9/ICPC.cpp.o -o de_9_ICPC

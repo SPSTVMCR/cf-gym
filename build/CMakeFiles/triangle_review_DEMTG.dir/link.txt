@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/triangle_review_DEMTG.dir/link.d CMakeFiles/triangle_review_DEMTG.dir/src/study/triangle_review/DEMTG.cpp.o -o triangle_review_DEMTG

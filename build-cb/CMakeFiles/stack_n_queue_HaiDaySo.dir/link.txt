@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/stack_n_queue_HaiDaySo.dir/link.d CMakeFiles/stack_n_queue_HaiDaySo.dir/src/study/stack_n_queue/HaiDaySo.cpp.o -o stack_n_queue_HaiDaySo

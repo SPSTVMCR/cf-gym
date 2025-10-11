@@ -1,6 +1,12 @@
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/con_divconq_DOITIEN.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/graph_theory_adj_matrix.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_DAYNGOAC.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_HaiDaySo.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_TOPK.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_priority_queue.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_priority_queue_2.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_reverse_string.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/triangle_review_DEMTG.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_1_CHUDE.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_1_SODOCLAP.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/de_1_WRESTLING.dir
