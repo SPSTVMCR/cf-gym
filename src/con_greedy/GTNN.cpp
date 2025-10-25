@@ -32,8 +32,7 @@ void solve() {
     priority_queue<int> pq;
     for (auto p : freq) {
         pq.push(p.second);
-    }
-    while (k-- && !pq.empty()) {
+    }    while (k-- && !pq.empty()) {
         ll top = pq.top();
         pq.pop();
         top--;

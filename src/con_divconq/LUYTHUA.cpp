@@ -20,18 +20,16 @@ using vll = vector<ll>;
 /* Problem functions */
 void solve()
 {
-    // insert code here
+    ll n, k;
+    cin >> n >> k;
 }
 /* Main function */
 int main()
 {
     fast_io();
 
-    ll t;
-    cin >> t;
-    while (t--) {
-        solve();
-    }
+    ll x;
+    cin >> x;
 
     return 0;
 }
