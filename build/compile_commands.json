@@ -1,9 +1,21 @@
 [
 {
   "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
-  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/con_divconq_DOITIEN.dir/src/con_divconq/DOITIEN.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/con_divconq/DOITIEN.cpp",
-  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_divconq/DOITIEN.cpp",
-  "output": "CMakeFiles/con_divconq_DOITIEN.dir/src/con_divconq/DOITIEN.cpp.o"
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/con_greedy_DOITIEN.dir/src/con_greedy/DOITIEN.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/DOITIEN.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/DOITIEN.cpp",
+  "output": "CMakeFiles/con_greedy_DOITIEN.dir/src/con_greedy/DOITIEN.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/con_greedy_NHAMCHUSO.dir/src/con_greedy/NHAMCHUSO.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/NHAMCHUSO.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/NHAMCHUSO.cpp",
+  "output": "CMakeFiles/con_greedy_NHAMCHUSO.dir/src/con_greedy/NHAMCHUSO.cpp.o"
+},
+{
+  "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",
+  "command": "/usr/bin/g++   -O2 -g -DNDEBUG -std=c++17 -o CMakeFiles/con_greedy_SUMAII.dir/src/con_greedy/SUMAII.cpp.o -c /mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/SUMAII.cpp",
+  "file": "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/SUMAII.cpp",
+  "output": "CMakeFiles/con_greedy_SUMAII.dir/src/con_greedy/SUMAII.cpp.o"
 },
 {
   "directory": "/mnt/SharedData/Code/cf-gym/cf-gym/build",

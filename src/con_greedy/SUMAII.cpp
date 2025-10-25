@@ -18,23 +18,29 @@ using vll = vector<ll>;
 // bool prime(ll a) {if (a == 1) return 0; for (int i = 2; i <= round(sqrt(a)); ++i) if (a % i == 0)
 // return false; return true;}
 /* Problem functions */
-
+static const ll MOD = 1e9 + 7;
 /* Main function */
 int main()
 {
     fast_io();
-    ll n;
-    cin >> n;
-    ll m[1, 2, 5, 10, 20, 50, 100, 200, 500, 1000];
-    f(ll, i, 0, n){
-        ll x;
-        cin >> x;
-        ll res = 0;
-        f(int, i, 0, n) {
-            res += x / m[i];
-            x %= m[i];
+    int t;
+    cin >> t;
+    while (t--) {
+        ll maxVal = 0;
+        int n;
+        cin >> n;
+        vll a(n);
+        f(int, i, 0, n)
+        {
+            cin >> a[i];
         }
-        cout << res << '\n';
+        sort(all(a));
+        f(int, i, 0, n)
+        {
+            maxVal += a[i] * i;
+            maxVal %= MOD;
+        }
+        cout << maxVal << '\n';
     }
 
     return 0;

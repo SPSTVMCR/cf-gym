@@ -1,4 +1,6 @@
-/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/con_divconq_DOITIEN.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/con_greedy_DOITIEN.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/con_greedy_NHAMCHUSO.dir
+/mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/con_greedy_SUMAII.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/graph_theory_adj_matrix.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_DAYNGOAC.dir
 /mnt/SharedData/Code/cf-gym/cf-gym/build/CMakeFiles/stack_n_queue_HaiDaySo.dir

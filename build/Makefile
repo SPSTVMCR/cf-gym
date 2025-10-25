@@ -118,17 +118,43 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named con_divconq_DOITIEN
+# Target rules for targets named con_greedy_DOITIEN
 
 # Build rule for target.
-con_divconq_DOITIEN: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 con_divconq_DOITIEN
-.PHONY : con_divconq_DOITIEN
+con_greedy_DOITIEN: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 con_greedy_DOITIEN
+.PHONY : con_greedy_DOITIEN
 
 # fast build rule for target.
-con_divconq_DOITIEN/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_divconq_DOITIEN.dir/build.make CMakeFiles/con_divconq_DOITIEN.dir/build
-.PHONY : con_divconq_DOITIEN/fast
+con_greedy_DOITIEN/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_DOITIEN.dir/build.make CMakeFiles/con_greedy_DOITIEN.dir/build
+.PHONY : con_greedy_DOITIEN/fast
+
+#=============================================================================
+# Target rules for targets named con_greedy_NHAMCHUSO
+
+# Build rule for target.
+con_greedy_NHAMCHUSO: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 con_greedy_NHAMCHUSO
+.PHONY : con_greedy_NHAMCHUSO
+
+# fast build rule for target.
+con_greedy_NHAMCHUSO/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_NHAMCHUSO.dir/build.make CMakeFiles/con_greedy_NHAMCHUSO.dir/build
+.PHONY : con_greedy_NHAMCHUSO/fast
+
+#=============================================================================
+# Target rules for targets named con_greedy_SUMAII
+
+# Build rule for target.
+con_greedy_SUMAII: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 con_greedy_SUMAII
+.PHONY : con_greedy_SUMAII
+
+# fast build rule for target.
+con_greedy_SUMAII/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_SUMAII.dir/build.make CMakeFiles/con_greedy_SUMAII.dir/build
+.PHONY : con_greedy_SUMAII/fast
 
 #=============================================================================
 # Target rules for targets named graph_theory_adj_matrix
@@ -949,29 +975,77 @@ de_olympic_1_NANGLUONG/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/de_olympic_1_NANGLUONG.dir/build.make CMakeFiles/de_olympic_1_NANGLUONG.dir/build
 .PHONY : de_olympic_1_NANGLUONG/fast
 
-src/con_divconq/DOITIEN.o: src/con_divconq/DOITIEN.cpp.o
-.PHONY : src/con_divconq/DOITIEN.o
+src/con_greedy/DOITIEN.o: src/con_greedy/DOITIEN.cpp.o
+.PHONY : src/con_greedy/DOITIEN.o
 
 # target to build an object file
-src/con_divconq/DOITIEN.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_divconq_DOITIEN.dir/build.make CMakeFiles/con_divconq_DOITIEN.dir/src/con_divconq/DOITIEN.cpp.o
-.PHONY : src/con_divconq/DOITIEN.cpp.o
+src/con_greedy/DOITIEN.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_DOITIEN.dir/build.make CMakeFiles/con_greedy_DOITIEN.dir/src/con_greedy/DOITIEN.cpp.o
+.PHONY : src/con_greedy/DOITIEN.cpp.o
 
-src/con_divconq/DOITIEN.i: src/con_divconq/DOITIEN.cpp.i
-.PHONY : src/con_divconq/DOITIEN.i
+src/con_greedy/DOITIEN.i: src/con_greedy/DOITIEN.cpp.i
+.PHONY : src/con_greedy/DOITIEN.i
 
 # target to preprocess a source file
-src/con_divconq/DOITIEN.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_divconq_DOITIEN.dir/build.make CMakeFiles/con_divconq_DOITIEN.dir/src/con_divconq/DOITIEN.cpp.i
-.PHONY : src/con_divconq/DOITIEN.cpp.i
+src/con_greedy/DOITIEN.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_DOITIEN.dir/build.make CMakeFiles/con_greedy_DOITIEN.dir/src/con_greedy/DOITIEN.cpp.i
+.PHONY : src/con_greedy/DOITIEN.cpp.i
 
-src/con_divconq/DOITIEN.s: src/con_divconq/DOITIEN.cpp.s
-.PHONY : src/con_divconq/DOITIEN.s
+src/con_greedy/DOITIEN.s: src/con_greedy/DOITIEN.cpp.s
+.PHONY : src/con_greedy/DOITIEN.s
 
 # target to generate assembly for a file
-src/con_divconq/DOITIEN.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_divconq_DOITIEN.dir/build.make CMakeFiles/con_divconq_DOITIEN.dir/src/con_divconq/DOITIEN.cpp.s
-.PHONY : src/con_divconq/DOITIEN.cpp.s
+src/con_greedy/DOITIEN.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_DOITIEN.dir/build.make CMakeFiles/con_greedy_DOITIEN.dir/src/con_greedy/DOITIEN.cpp.s
+.PHONY : src/con_greedy/DOITIEN.cpp.s
+
+src/con_greedy/NHAMCHUSO.o: src/con_greedy/NHAMCHUSO.cpp.o
+.PHONY : src/con_greedy/NHAMCHUSO.o
+
+# target to build an object file
+src/con_greedy/NHAMCHUSO.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_NHAMCHUSO.dir/build.make CMakeFiles/con_greedy_NHAMCHUSO.dir/src/con_greedy/NHAMCHUSO.cpp.o
+.PHONY : src/con_greedy/NHAMCHUSO.cpp.o
+
+src/con_greedy/NHAMCHUSO.i: src/con_greedy/NHAMCHUSO.cpp.i
+.PHONY : src/con_greedy/NHAMCHUSO.i
+
+# target to preprocess a source file
+src/con_greedy/NHAMCHUSO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_NHAMCHUSO.dir/build.make CMakeFiles/con_greedy_NHAMCHUSO.dir/src/con_greedy/NHAMCHUSO.cpp.i
+.PHONY : src/con_greedy/NHAMCHUSO.cpp.i
+
+src/con_greedy/NHAMCHUSO.s: src/con_greedy/NHAMCHUSO.cpp.s
+.PHONY : src/con_greedy/NHAMCHUSO.s
+
+# target to generate assembly for a file
+src/con_greedy/NHAMCHUSO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_NHAMCHUSO.dir/build.make CMakeFiles/con_greedy_NHAMCHUSO.dir/src/con_greedy/NHAMCHUSO.cpp.s
+.PHONY : src/con_greedy/NHAMCHUSO.cpp.s
+
+src/con_greedy/SUMAII.o: src/con_greedy/SUMAII.cpp.o
+.PHONY : src/con_greedy/SUMAII.o
+
+# target to build an object file
+src/con_greedy/SUMAII.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_SUMAII.dir/build.make CMakeFiles/con_greedy_SUMAII.dir/src/con_greedy/SUMAII.cpp.o
+.PHONY : src/con_greedy/SUMAII.cpp.o
+
+src/con_greedy/SUMAII.i: src/con_greedy/SUMAII.cpp.i
+.PHONY : src/con_greedy/SUMAII.i
+
+# target to preprocess a source file
+src/con_greedy/SUMAII.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_SUMAII.dir/build.make CMakeFiles/con_greedy_SUMAII.dir/src/con_greedy/SUMAII.cpp.i
+.PHONY : src/con_greedy/SUMAII.cpp.i
+
+src/con_greedy/SUMAII.s: src/con_greedy/SUMAII.cpp.s
+.PHONY : src/con_greedy/SUMAII.s
+
+# target to generate assembly for a file
+src/con_greedy/SUMAII.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/con_greedy_SUMAII.dir/build.make CMakeFiles/con_greedy_SUMAII.dir/src/con_greedy/SUMAII.cpp.s
+.PHONY : src/con_greedy/SUMAII.cpp.s
 
 src/study/graph_theory/adj_matrix.o: src/study/graph_theory/adj_matrix.cpp.o
 .PHONY : src/study/graph_theory/adj_matrix.o
@@ -2493,7 +2567,9 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... con_divconq_DOITIEN"
+	@echo "... con_greedy_DOITIEN"
+	@echo "... con_greedy_NHAMCHUSO"
+	@echo "... con_greedy_SUMAII"
 	@echo "... de_10_DEMTG"
 	@echo "... de_10_QUERY"
 	@echo "... de_10_SOTRONCHUC"
@@ -2557,9 +2633,15 @@ help:
 	@echo "... stack_n_queue_priority_queue_2"
 	@echo "... stack_n_queue_reverse_string"
 	@echo "... triangle_review_DEMTG"
-	@echo "... src/con_divconq/DOITIEN.o"
-	@echo "... src/con_divconq/DOITIEN.i"
-	@echo "... src/con_divconq/DOITIEN.s"
+	@echo "... src/con_greedy/DOITIEN.o"
+	@echo "... src/con_greedy/DOITIEN.i"
+	@echo "... src/con_greedy/DOITIEN.s"
+	@echo "... src/con_greedy/NHAMCHUSO.o"
+	@echo "... src/con_greedy/NHAMCHUSO.i"
+	@echo "... src/con_greedy/NHAMCHUSO.s"
+	@echo "... src/con_greedy/SUMAII.o"
+	@echo "... src/con_greedy/SUMAII.i"
+	@echo "... src/con_greedy/SUMAII.s"
 	@echo "... src/study/graph_theory/adj_matrix.o"
 	@echo "... src/study/graph_theory/adj_matrix.i"
 	@echo "... src/study/graph_theory/adj_matrix.s"

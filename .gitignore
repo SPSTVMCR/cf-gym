@@ -1,0 +1,91 @@
+# Generic C/C++ ignore file
+
+# Build directories
+/build/
+/build-*/
+/cmake-build-*/
+cmake-build-*/
+_debug/
+/Debug/
+/Release/
+out/
+bin/
+obj/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Compiled object files, libraries, executables
+*.o
+*.ko
+*.obj
+*.lo
+*.la
+*.al
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Debug and profiling files
+*.pdb
+*.idb
+*.gcno
+*.gcda
+*.prof
+*.ipch
+
+# IDEs and editors
+.vscode/
+.vs/
+.idea/
+*.iml
+*.iws
+*.suo
+*.user
+*.userosscache
+*.vcxproj.user
+*.sln.docstates
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+Makefile.Debug
+Makefile.Release
+
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+
+# Temporary and backup files
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tags, logs
+tags
+tags.lock
+*.log
+
+# random_notes folder
+random_notes/
+

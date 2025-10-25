@@ -1,0 +1,1 @@
+{"name":"Local: GTNN","url":"/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/GTNN.cpp","tests":[{"id":1761362927358,"input":"2\n2\nABCCBC\n2\nAAAB","output":"6\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/GTNN.cpp","group":"local","local":true}

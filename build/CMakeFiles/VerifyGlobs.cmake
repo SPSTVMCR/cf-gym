@@ -4,7 +4,6 @@
 # ALL_SOURCES at CMakeLists.txt:8 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_divconq/*.cpp")
 set(OLD_GLOB
-  "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_divconq/DOITIEN.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -23,6 +22,9 @@ endif()
 # ALL_SOURCES at CMakeLists.txt:8 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/*.cpp")
 set(OLD_GLOB
+  "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/DOITIEN.cpp"
+  "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/NHAMCHUSO.cpp"
+  "/mnt/SharedData/Code/cf-gym/cf-gym/src/con_greedy/SUMAII.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
